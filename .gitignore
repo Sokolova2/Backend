@@ -1,2 +1,9 @@
 /node-app/node_modules
 /python-app/.venv/
+/demo-app/node_modules
+
+
+03-simple-entities/node_modules
+
+02-nginx-nestjs-laravel/python-app/.venv/
+02-nginx-nestjs-laravel/node-app/node_modules/
